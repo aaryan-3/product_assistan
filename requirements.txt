@@ -1,6 +1,6 @@
 fastapi
 uvicorn
 torch
-transformers
 pandas
 pydantic
+
